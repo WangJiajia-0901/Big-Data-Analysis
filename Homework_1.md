@@ -16,6 +16,10 @@ Number of times a bombshell was written | The more bombshell means that users ar
 Number of likes | The more likes, the more people focus on
 Nunmber of dislikes | The more dislikes, the more people have negative reaction
 Number of comments | The more comments, the more people focus on
+Content of bombshell | If the users leave the positive bombshell
+Content of comments | If the users leave the postive comments
+
+To get the preliminary feelings of how big the data will be, I crawled the number of plays and the number of people online on the Bilibili home page.
 ### 2.2 
 ### 2.3 3V properties
 
