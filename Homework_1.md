@@ -5,12 +5,17 @@ To narrow this question down, I focus the self-media and take the Bilibili as th
 ## 2  Big Data Problem Restatement and Properties
 ### 2.1 Problem Restatement
 For upper, the best time release is the time period that gets the most attention. In order to describe the most attention-watching time, you can judge from the following indicators.  <br>
-Indicators| Details
--|-
+
+Indicators | Details
+-|- 
 Total online users of Bilibili | The more online users, the more people may watch this video 
 Total online playback of Bilibili | More playback means the higher the viewing of new videos 
 Time and number of times paused throughout the viewing process | More pauses mean that users are less attentive to viewing
-Whether the user has long "silent viewing" ｜ If the user does not do video clicks or other actions for a long time, the user can be considered to be using the video as a background and focusing on something else
+Whether the user has long "silent viewing" | If the user does not do video clicks or other actions for a long time, the user can be considered to be using the video as a background and focusing on something else
+Number of times a bombshell was written | The more bombshell means that users are more enthusastics in participating
+Number of likes | The more likes, the more people focus on
+Nunmber of dislikes | The more dislikes, the more people have negative reaction
+Number of comments | The more comments, the more people focus on
 ### 2.2 
 ### 2.3 3V properties
 
