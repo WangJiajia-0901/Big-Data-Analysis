@@ -14,7 +14,7 @@ Time and number of times paused throughout the viewing process | More pauses mea
 Whether the user has long "silent viewing" | If the user does not do video clicks or other actions for a long time, the user can be considered to be using the video as a background and focusing on something else
 Number of times a bombshell was written | The more bombshell means that users are more enthusastics in participating
 Number of likes | The more likes, the more people focus on
-Nunmber of dislikes | The more dislikes, the more people have negative reaction
+Number of dislikes | The more dislikes, the more people have negative reaction
 Number of comments | The more comments, the more people focus on
 Content of bombshell | If the users leave the positive bombshell
 Content of comments | If the users leave the postive comments
@@ -22,9 +22,12 @@ Content of comments | If the users leave the postive comments
 To get the preliminary feelings of how big the data will be, I crawled the number of plays and the number of people online on the Bilibili home page.<br>
 ![onlineusers](https://github.com/WangJiajia-0901/Big-Data-Analysis/blob/master/onlineusage.png)
 ![onlineusage](https://github.com/WangJiajia-0901/Big-Data-Analysis/blob/master/onlineusers.png)
-### 2.2 
+From the figure we can conclude that online viewership varies widely from time to time, which means that release timing is quite an issue. <br>
 ### 2.3 3V properties
-
+**The three V properties are quite obvious.** <br>
+**Firstly, it is the volume.** According to the 2018 financial report of Bilibili, the average monthly active user reached a new high of 92.8 million in the fourth quarter of 2018, with 79.5 million mobile monthly live users, up 29% and 37% year-on-year, respectively. The average monthly number of paying subscribers rose 298 percent to 4.4 million in the past 12 months. Each user's movie-viewing behavior forms part of the data being analyzed. So the data is obviously massive.<br>
+**Secondly, it is the variety.**  The user's watching behavior data is various. There is a variety of viewing data sources, users' viewing behavior is diverse, and all the actions of the user on this platform can become data. As the indicators mentioned before, the total online users, total online playback, time and number of times paused throughtout the viewing process, whether is "silent viewing", times of bombshell was writen, number of likes and dislikes and comments, the contents of bombshell and comments and so on. This data is mostly unstructured and a few are structured. For example, the texts of comments and bombshell are unstructured, but the total online users and play volumes are structured data.<br>
+**Thirdly, it is velocity.** This comes from two aspects, the first is that the user's movie viewing behavior is real-time updated and dynamic, and the second is that the viewing behavior of different users constitutes the dynamic viewing state of the whole platform. <br>
 
 ## Workflow and Solution
 
