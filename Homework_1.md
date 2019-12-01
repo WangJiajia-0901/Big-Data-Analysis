@@ -20,8 +20,8 @@ Content of bombshell | If the users leave the positive bombshell
 Content of comments | If the users leave the postive comments
 
 To get the preliminary feelings of how big the data will be, I crawled the number of plays and the number of people online on the Bilibili home page.<br>
-![onlineusers](https://github.com/WangJiajia-0901/Big-Data-Analysis/blob/master/onlineusers.png)
-![onlineusage](https://github.com/WangJiajia-0901/Big-Data-Analysis/blob/master/onlineusage.png)
+![onlineusers](https://github.com/WangJiajia-0901/Big-Data-Analysis/blob/master/onlineusage.png)
+![onlineusage](https://github.com/WangJiajia-0901/Big-Data-Analysis/blob/master/onlineusers.png)
 ### 2.2 
 ### 2.3 3V properties
 
