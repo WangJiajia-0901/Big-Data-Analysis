@@ -30,6 +30,12 @@ From the figure we can conclude that online viewership varies widely from time t
 **Thirdly, it is velocity.** This comes from two aspects, the first is that the user's movie viewing behavior is real-time updated and dynamic, and the second is that the viewing behavior of different users constitutes the dynamic viewing state of the whole platform. <br>
 
 ## Workflow and Solution
-
+### Reptile data and stored in a database
+All the data need to be crawled and I have succuessfully crawled the online usage. I need to crawl all the indicators mentioned before. To better manage the data, directly store the data in the database.
+### Establish model
+First, use NLP to capture and analyze the sentiment of the users who are viewing this video by analyzing the text.<br>
+Second, use random forest to establish the regression model between the above indicators and the certain video's playing volume.<br>
+### Output Best Play Time
+Different types of videos (game, food, makeup) will have different results, so for different segments of the video to get different best video release time.<br>
 ## Database expectations
 
