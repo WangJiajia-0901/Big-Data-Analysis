@@ -19,7 +19,9 @@ Number of comments | The more comments, the more people focus on
 Content of bombshell | If the users leave the positive bombshell
 Content of comments | If the users leave the postive comments
 
-To get the preliminary feelings of how big the data will be, I crawled the number of plays and the number of people online on the Bilibili home page.
+To get the preliminary feelings of how big the data will be, I crawled the number of plays and the number of people online on the Bilibili home page.<br>
+![onlineusers](https://github.com/WangJiajia-0901/Big-Data-Analysis/blob/master/online%20users.png)
+![onlineusage](https://github.com/WangJiajia-0901/Big-Data-Analysis/blob/master/online%20usage.png)
 ### 2.2 
 ### 2.3 3V properties
 
