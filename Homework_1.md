@@ -4,7 +4,13 @@ We are in the information overloading age. Entertainment applications and e-comm
 To narrow this question down, I focus the self-media and take the Bilibili as the example. I want to find the right video releasing time for the Bilibili's uppers. Knowing that, the uppers can become popular quite soon. <br>
 ## 2  Big Data Problem Restatement and Properties
 ### 2.1 Problem Restatement
-
+For upper, the best time release is the time period that gets the most attention. In order to describe the most attention-watching time, you can judge from the following indicators.  <br>
+Indicators| Details
+-|-
+Total online users of Bilibili | The more online users, the more people may watch this video 
+Total online playback of Bilibili | More playback means the higher the viewing of new videos 
+Time and number of times paused throughout the viewing process | More pauses mean that users are less attentive to viewing
+Whether the user has long "silent viewing" ｜ If the user does not do video clicks or other actions for a long time, the user can be considered to be using the video as a background and focusing on something else
 ### 2.2 
 ### 2.3 3V properties
 
