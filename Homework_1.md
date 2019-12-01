@@ -38,4 +38,7 @@ Second, use random forest to establish the regression model between the above in
 ### Output Best Play Time
 Different types of videos (game, food, makeup) will have different results, so for different segments of the video to get different best video release time.<br>
 ## Database expectations
+I think MongoDB is proper for this problem with the following reasons.<br>
+Suitable for real-time data processing of the website. It is ideal for real-time insertion, updates and queries, and has the replication and high scalability required for real-time data storage for websites. <br>
+Due to its high performance, it is suitable as a cache layer for the information infrastructure. After the system restarts, the persistent cache layer built by it avoids overloading the underlying data source. <br>
 
